@@ -22,6 +22,11 @@ body{
     margin-bottom: 80px;
 }
 
+.header__img{
+    width: 165px;
+    height: 85px;
+}
+
 .header__main-header{
     margin-top: 32px;
     margin-bottom: 36px;
@@ -480,4 +485,14 @@ margin: 0;
 .footer__logo-and-links{
     display: flex;
 
+}
+
+.footer__img{
+    width: 165px;
+    height: 90px;
+}
+
+.footer__img-div{
+    margin-top: 56px;
+    margin-left: 130px;
 }
